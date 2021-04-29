@@ -25,12 +25,22 @@
 ## Map - Spanish
 *Preview: [https://dataviz.nbcnews.com/projects/20210426-co-alarm-requirements-by-state/index-sp.html](https://dataviz.nbcnews.com/projects/20210426-co-alarm-requirements-by-state/index-sp.html)*
 
+**Apple News Version:**
+<a download="apple-news-version-Map-Spanish.jpg" href="https://github.com/wjcjenny/texas-co-embed-code/raw/master/assets/apple-news-version-Map-Spanish.jpg" title="map-sp">
+    <p>apple-news-version-Map-Spanish.jpg</p>
+</a>
+
 **iFrame Embed code:**
 
 `<script src="https://nodeassets.nbcnews.com/cdnassets/pym/1.3.2/pym.min.js"></script><style>#embed-20210426-co-alarm-requirements-by-state-sp iframe {width: 1px;min-width: 100%}</style><div id="embed-20210426-co-alarm-requirements-by-state-sp"></div><script>var pymParent = new pym.Parent('embed-20210426-co-alarm-requirements-by-state-sp', 'https://dataviz.nbcnews.com/projects/20210426-co-alarm-requirements-by-state/index-sp.html', {title: '', parenturlparam: '', parenturlvalue: ''});</script>`
 
 ## Line chart - Spanish
 *Preview: [https://dataviz.nbcnews.com/projects/20210426-co-hypothermia-case/index-sp.html](https://dataviz.nbcnews.com/projects/20210426-co-hypothermia-case/index-sp.html)*
+
+**Apple News Version:**
+<a download="apple-news-version-Line-Spanish.jpg" href="https://github.com/wjcjenny/texas-co-embed-code/raw/master/assets/apple-news-version-Line-Spanish.jpg" title="line-sp">
+    <p>apple-news-version-Line-Spanish.jpg</p>
+</a>
 
 **iFrame Embed code:**
 
