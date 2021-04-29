@@ -2,7 +2,7 @@
 *Preview: [https://dataviz.nbcnews.com/projects/20210426-co-alarm-requirements-by-state/preview/](https://dataviz.nbcnews.com/projects/20210426-co-alarm-requirements-by-state/preview/)*
 
 **Apple News Version:**
-<a download="apple-news-version-Map-English.jpg" href="assets/apple-news-version-Map-English.jpg" title="map-en">
+<a download="apple-news-version-Map-English.jpg" href="https://github.com/wjcjenny/texas-co-embed-code/raw/master/assets/apple-news-version-Map-English.jpg" title="map-en">
     <p>apple-news-version-Map-English.jpg</p>
 </a>
 
