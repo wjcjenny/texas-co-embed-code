@@ -3,7 +3,7 @@
 
 **Apple News Version:**
 <a download="apple-news-version-Map-English.jpg" href="assets/apple-news-version-Map-English.jpg" title="map-en">
-    <img alt="ImageName" src="assets/apple-news-version-Map-English.jpg">
+    <p>apple-news-version-Map-English.jpg</p>
 </a>
 
 **Embed code:**
